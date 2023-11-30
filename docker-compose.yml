@@ -1,5 +1,5 @@
 services:
-  needocful:
+ maksiegen:
     build: .
     shm_size: 2.6gb
     ports:
