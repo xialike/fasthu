@@ -1,5 +1,5 @@
 services:
-  yueihan:
+  tangmuomak:
     build: .
     shm_size: 2.6gb
     ports:
